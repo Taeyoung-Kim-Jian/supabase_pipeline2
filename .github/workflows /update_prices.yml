@@ -1,4 +1,4 @@
-name: 📈 Daily Price & Pattern Update
+name: Daily Price & Pattern Update
 
 on:
   schedule:
